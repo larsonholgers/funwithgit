@@ -1,0 +1,4 @@
+funwithgit
+==========
+
+Fun with git
